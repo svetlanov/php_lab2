@@ -1,5 +1,5 @@
 <?php
-
+// цикл for
 $a = 0;
 $b = 0;
 
@@ -13,7 +13,7 @@ for ($i = 0; $i <= 5; $i++) {
 
 echo "End of the loop: a = $a, b = $b<br>";
 
-
+// оператор while
 $a = 0;
 $b = 0;
 $i = 0;
@@ -29,6 +29,7 @@ while ($i <= 5) {
 
 echo "End of the loop: a = $a, b = $b<br>";
 
+// оператор do-while
 $a = 0;
 $b = 0;
 $i = 0;
